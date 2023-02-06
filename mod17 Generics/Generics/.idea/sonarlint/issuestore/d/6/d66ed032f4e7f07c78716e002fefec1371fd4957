@@ -1,0 +1,51 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(îÁİĞùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ËÕª
+E
+java:S3740"/Provide the parametrized type for this generic.(ˆ¢Ûê
+E
+java:S3740"/Provide the parametrized type for this generic.(ˆ¢Ûê
+E
+java:S3740"/Provide the parametrized type for this generic.(ãÕõì
+E
+java:S3740"/Provide the parametrized type for this generic.(ãÕõì
+D
+java:S3740"/Provide the parametrized type for this generic.(Ë¹®p
+D
+java:S3740"/Provide the parametrized type for this generic.(Ë¹®p
+E
+java:S3740"/Provide the parametrized type for this generic.(Ø‚Í‰
+J
+java:S3740"/Provide the parametrized type for this generic.(ïçÄıÿÿÿÿÿ
+D
+java:S3740 "/Provide the parametrized type for this generic.(İ³È+
+D
+java:S3740 "/Provide the parametrized type for this generic.(İ³È+
+E
+java:S3740""/Provide the parametrized type for this generic.(Æ¶è
+E
+java:S3740""/Provide the parametrized type for this generic.(Æ¶è
+J
+java:S3740$"/Provide the parametrized type for this generic.(×‡Éıÿÿÿÿ
+J
+java:S3740$"/Provide the parametrized type for this generic.(×‡Éıÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Alcool" 4 times.(ˆ¢Ûê
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÓ²œÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854
+"5Remove this useless assignment to local variable "a".(îÚ Àıÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "b".(‡´ò…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„Ü×•øÿÿÿÿ
+A
+java:S1481
+"&Remove this unused "a" local variable.(îÚ Àıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÂŞ›
+<
+java:S1481"&Remove this unused "b" local variable.(‡´ò…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚‹Ğøÿÿÿÿ
