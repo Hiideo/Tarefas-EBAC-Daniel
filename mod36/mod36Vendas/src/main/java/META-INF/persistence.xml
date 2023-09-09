@@ -7,16 +7,16 @@
 		
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		
-		<class>br.com.rpires.domain.jpa.ClienteJpa</class>
-		<class>br.com.rpires.domain.jpa.ProdutoJpa</class>
-		<class>br.com.rpires.domain.jpa.VendaJpa</class>
-		<class>br.com.rpires.domain.jpa.ProdutoQuantidadeJpa</class>
+		<class>br.com.dhideo.domain.jpa.ClienteJpa</class>
+		<class>br.com.dhideo.domain.jpa.ProdutoJpa</class>
+		<class>br.com.dhideo.domain.jpa.VendaJpa</class>
+		<class>br.com.dhideo.domain.jpa.ProdutoQuantidadeJpa</class>
 		
 		<exclude-unlisted-classes>true</exclude-unlisted-classes>
 		
 		<properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" /> <!-- DB Driver -->
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:15432/vendas_online" /> <!-- BD Mane -->
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/vendas_online" /> <!-- BD Mane -->
             <property name="javax.persistence.jdbc.user" value="postgres" /> <!-- DB User -->
             <property name="javax.persistence.jdbc.password" value="admin" /> <!-- DB Password -->
 
@@ -33,10 +33,10 @@
 		
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		
-		<class>br.com.rpires.domain.jpa.ClienteJpa</class>
-		<class>br.com.rpires.domain.jpa.ProdutoJpa</class>
-		<class>br.com.rpires.domain.jpa.VendaJpa</class>
-		<class>br.com.rpires.domain.jpa.ProdutoQuantidadeJpa</class>
+		<class>br.com.dhideo.domain.jpa.ClienteJpa</class>
+		<class>br.com.dhideo.domain.jpa.ProdutoJpa</class>
+		<class>br.com.dhideo.domain.jpa.VendaJpa</class>
+		<class>br.com.dhideo.domain.jpa.ProdutoQuantidadeJpa</class>
 		
 		<exclude-unlisted-classes>true</exclude-unlisted-classes>
 		
@@ -59,7 +59,7 @@
 		
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		
-		<class>br.com.rpires.domain.jpa.ClienteJpa2</class>
+		<class>br.com.dhideo.domain.jpa.ClienteJpa2</class>
 		
 		<exclude-unlisted-classes>true</exclude-unlisted-classes>
 		
